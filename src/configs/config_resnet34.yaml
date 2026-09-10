@@ -1,0 +1,14 @@
+dataset_dir: '/workspace/dataset'
+scenes:
+  - '0001'
+  - '0002'
+  - '0003'
+  - '0004'
+  - '0005'
+  - '0006'
+  - '0007'
+batch_size: 8
+learning_rate: 0.001
+num_epochs: 50
+num_classes: 18
+model: 'resnet34'
