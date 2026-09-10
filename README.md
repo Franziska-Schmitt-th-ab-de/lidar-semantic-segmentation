@@ -1,6 +1,7 @@
 ﻿# LiDAR Semantic Segmentation
 
-![Uploading grafik.png…]()
+<img width="1195" height="140" alt="grafik" src="https://github.com/user-attachments/assets/70813f09-aae6-4314-b73a-90941b45dc94" />
+
 
 
 Deep-learning pipeline for **semantic segmentation of LiDAR data** using PyTorch.  
