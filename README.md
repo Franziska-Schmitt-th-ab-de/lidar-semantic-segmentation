@@ -1,5 +1,8 @@
 ﻿# LiDAR Semantic Segmentation
 
+![Uploading grafik.png…]()
+
+
 Deep-learning pipeline for **semantic segmentation of LiDAR data** using PyTorch.  
 Developed as a five-person university project in the B.Sc. **Medical Engineering and Data Science** program at Aschaffenburg University of Applied Sciences.
 
