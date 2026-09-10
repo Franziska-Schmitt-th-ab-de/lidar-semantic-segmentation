@@ -22,7 +22,7 @@ This repository contains the collaborative work of a five-person project team.
 My individual model responsibility was **ResNet34**. I also contributed to shared parts of the project, including:
 
 - adaptation and implementation of the **ResNet34-based encoder-decoder segmentation architecture**
-- label-tool development and data loading
+- labeling the data and data loading
 - training-pipeline development
 - metric collection and result visualization
 - dataloader visualization
